@@ -13,6 +13,7 @@ const NavBar = () => {
     { label: "Products", href: "/products" },
     { label: "Playground", href: "/playground" },
     { label: "Admin", href: "/admin" },
+    { label: "Term and Conditions", href: "/terms" },
   ];
 
   return (
